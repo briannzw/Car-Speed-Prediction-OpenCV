@@ -1,6 +1,7 @@
 # Car-Speed-Prediction-OpenCV
 ## General Info
 Final Project Mata Kuliah Artificial Intellegence  
+Universitas Sumatera Utara  
 Nama : Brian Wijaya  
 NIM : 201401042  
   
